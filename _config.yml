@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "송형근"
   avatar           : "https://avatars1.githubusercontent.com/u/34259849?s=460&v=4"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "27 예비 "
+  bio              : "27 예비 개발자"
   location         : "Seoul/Korea"
   links:
     - label: "Email"
