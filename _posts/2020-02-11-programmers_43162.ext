@@ -1,1 +1,30 @@
-test
+  
+---
+title: "[프로그래머스] 네트워크"
+date: 2020-02-11 16:20:28 -0400
+---
+```python
+def solution(n, computers):
+    answer = 0
+    visited = [False for _ in range(n)]
+
+    def dfs(i):
+        visited[i] = True
+        for j in range(n):
+            if j!=i and computers[i][j]==1 and not visited[j]:
+                dfs(j)
+
+    for i in range(n):
+        if not visited[i]:
+            dfs(i)
+            answer+=1
+
+
+    return answer
+ ```
+
+​```python
+def print_hi(name):
+  print("hello", name)
+print_hi('Tom')
+​```
