@@ -20,7 +20,7 @@ title                    : "뒤늦게 시작하는 기술 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "송형근"
-description              : "미약한 기술 블로그"
+description              : "Python, Java, 알고리즘을 좋아합니다."
 url                      : "https://shg9411.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "송형근"
   avatar           : "https://avatars1.githubusercontent.com/u/34259849?s=460&v=4"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "27 취준생입니다."
+  bio              : "27 예비 "
   location         : "Seoul/Korea"
   links:
     - label: "Email"
