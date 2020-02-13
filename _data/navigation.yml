@@ -1,0 +1,7 @@
+main:
+  - title: "게시글"
+    url: /year-archive/
+  - title: "분류"
+    url: /categories/
+  - title: "태그별"
+    url: /tags/
