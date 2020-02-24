@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "뒤늦게 시작하는 기술 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "송형근"
+name                     : "So_H_G_ng"
 description              : "Python, Java, 알고리즘을 좋아합니다."
 url                      : "https://shg9411.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -108,7 +108,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Song_H_G"
+  name             : "So_H_G_ng"
   avatar           : "https://avatars1.githubusercontent.com/u/34259849?s=460&v=4"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "알고리즘 좋아하는 백수"
   location         : "Seoul/Korea"
