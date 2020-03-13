@@ -15,6 +15,8 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+head_scripts:
+  - https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 locale                   : "en-US"
 title                    : "뒤늦게 시작하는 기술 블로그"
 title_separator          : "-"
