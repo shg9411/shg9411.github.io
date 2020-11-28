@@ -14,7 +14,7 @@ NHN 그룹사 신입 개발자 공개채용에 지원하였고, [2차 Pre-Test](
 
 난이도가 생각했던 것 보다 어려워서 걱정을 했었는데, 다행스럽게도 11월 27일 합격 메일을 받을 수 있었습니다.  
 <div>
-  <img width= "750" src="https://user-images.githubusercontent.com/34259849/100497360-5a080180-319e-11eb-99e8-90a1f047ddc0.PNG">
+  <img width= "500" src="https://user-images.githubusercontent.com/34259849/100497360-5a080180-319e-11eb-99e8-90a1f047ddc0.PNG">
 </div>  
 남은 전형은 NHN에서 하루 체험하는 FeeliNHN 대신 치뤄지는 1차 화상 면접과, 2차 임원 면접입니다.  
 1차 면접은 알고리즘, 자료구조를 준비해야 하는 것으로 알고있습니다.  
