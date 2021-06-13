@@ -1,5 +1,8 @@
-트랜잭션 격리수준 (transaction isolation level)
-===
+---
+title: "트랜잭션 격리수준 (transaction isolation level)"
+excerpt: "트랜잭션과 isolation level에 대해"
+classes: wide
+---
   
 # 트랜잭션이란?  
 트랜잭션은 DBMS에서 **데이터를 다루는 논리적인 작업의 단위**이며 하나 이상의 SQL 문장으로 이루어져 있습니다.  
