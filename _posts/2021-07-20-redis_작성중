@@ -1,0 +1,10 @@
+---
+title: "Redis란"
+excerpt: "Redis의 개념과 이해"
+classes: wide
+---
+
+# Redis란 무엇일까   
+Redis는 **Re**mote **Di**ctionary **S**erver의 약어입니다.  
+데이터베이스, 캐시, 메시지 브로커 및 대기열로 사용할 수 있는 오픈 소스, In memory key-value 데이터 스토어입니다.  
+Redis는 단순한 key-value 형식이 아닌 string, hashes, lists, sets, sorted sets 등의 다양한 데이터 구조를 가지고 있습니다.  
